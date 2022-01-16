@@ -1,6 +1,6 @@
 # 个人doc
 
-基于 [https://doc.xugaoyi.com/](https://doc.xugaoyi.com/) 构建，它是一个现代化的静态网站生成器。
+基于 [vuepress-theme-vdoing](https://doc.xugaoyi.com/) 构建，它是一个现代化的静态网站生成器。
 
 ### 安装
 
